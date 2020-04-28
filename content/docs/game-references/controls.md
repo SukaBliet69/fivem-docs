@@ -427,3 +427,4 @@ Controls
 | 355   | INPUT\_VEH\_FLY\_BOMB\_BAY                       | E                                         | DPAD RIGHT      |
 | 356   | INPUT\_VEH\_FLY\_COUNTER                         | E                                         | DPAD RIGHT      |
 | 357   | INPUT\_VEH\_TRANSFORM                            | X                                         | A               |
+| 358   |INPUTGROUP_CELLPHONE_NAVIGATE                     | K                                         |NONE             |
